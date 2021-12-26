@@ -1,0 +1,10 @@
+aiofiles @ file:///home/tobias/.cache/pypoetry/artifacts/7c/0a/35/bcf42673db61a9a458182d62e42a08bba5277670124cc981eadf62e0ee/aiofiles-0.8.0-py3-none-any.whl
+aiohttp @ file:///home/tobias/.cache/pypoetry/artifacts/c3/d1/97/85daa5493c9bf3eb25c509bc3eb629985f82b89336bfcb5adcb76b78fe/aiohttp-3.8.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+aiosignal @ file:///home/tobias/.cache/pypoetry/artifacts/d3/d7/92/f7aa28b137b4b00e62270f58330cedde299917a71a3c00ee64913aa3c2/aiosignal-1.2.0-py3-none-any.whl
+async-timeout @ file:///home/tobias/.cache/pypoetry/artifacts/62/ff/30/bd0ec891880d93bf40cf6e7c53ab08dd9eb6af45fa532c030731e6eed0/async_timeout-4.0.2-py3-none-any.whl
+attrs @ file:///home/tobias/.cache/pypoetry/artifacts/6f/a9/ee/569c37f69a8c365ee41d2340aeac0214ee8c0086b8d8db43a21545204b/attrs-21.2.0-py2.py3-none-any.whl
+charset-normalizer @ file:///home/tobias/.cache/pypoetry/artifacts/9e/1a/c0/f7635922644ab43cdae873172296c99b00796f2e281669e0fb7516bf88/charset_normalizer-2.0.9-py3-none-any.whl
+frozenlist @ file:///home/tobias/.cache/pypoetry/artifacts/16/82/59/e9de178960fa722dabaa376316661aeedaca1bce820657f3c841fc51ae/frozenlist-1.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+idna @ file:///home/tobias/.cache/pypoetry/artifacts/d5/04/80/9c17fd3240a37d12ff2ef042b0306aeb1abd2d8b95f150fd60be938352/idna-3.3-py3-none-any.whl
+multidict @ file:///home/tobias/.cache/pypoetry/artifacts/22/0a/79/83ddc41690ddab080e4124552f4a06bef7689df7f71ff8d022fd183a3c/multidict-5.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+yarl @ file:///home/tobias/.cache/pypoetry/artifacts/a3/6b/bb/af40f3ac1dfb8650848efd34d43176c01039c7203c8f8f615543baf9d2/yarl-1.7.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
